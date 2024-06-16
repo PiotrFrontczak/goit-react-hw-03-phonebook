@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import ContactList from "./ContactList";
-import AddContactForm from './AddContactForm';
+import ContactList from './Contacts/ContactList';
+import AddContactForm from './Contacts/AddContactForm';
 
 class App extends Component {
   constructor(props) {
